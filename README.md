@@ -1,4 +1,4 @@
-## Linking D3 Charts and Adding Interactivity
+## Linking D3 Charts and Adding Interactivity ([link](https://stuteeroutray.github.io/linking-map-to-line-chart-d3-js.github.io/))
 
 Basic components of the project:
 * Chloropleth map of Africa drawn.
