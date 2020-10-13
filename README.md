@@ -1,6 +1,6 @@
 ## Linking D3 Charts and Adding Interactivity ([link](https://stuteeroutray.github.io/linking-map-to-line-chart-d3-js.github.io/))
 
-Basic components of the project:
+Basic components of this project:
 * Chloropleth map of Africa drawn.
 * Line chart displayed on click event of mouse for every region in the map.
 * Using mouse events tooltip shown over each region of the map as well as over the line chart.
