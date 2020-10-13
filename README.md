@@ -4,7 +4,7 @@ Basic components of the project:
 * Chloropleth map of Africa drawn.
 * Line chart displayed on click event of mouse for every region in the map.
 * Using mouse events tooltip shown over each region of the map as well as over the line chart.
-* Data and color scheme can be updated via html elements.(does not show on github page ([link)(https://stuteeroutray.github.io/linking-map-to-line-chart-d3-js.github.io/), works on local server)
+* Data and color scheme can be updated via html elements.(does not show on github page ([link](https://stuteeroutray.github.io/linking-map-to-line-chart-d3-js.github.io/), works on local server)
 * Stylized axes on line chart.
 
 ### Data Description
