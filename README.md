@@ -1,13 +1,15 @@
-## Linking D3 Charts and Adding Interactivity ([link](https://stuteeroutray.github.io/linking-map-to-line-chart-d3-js.github.io/))
+### Linking D3 Charts and Adding Interactivity ([link](https://stuteeroutray.github.io/linking-map-to-line-chart-d3-js.github.io/))
+
+This assignment was done as part of CSE 578 - Data Visualization coursework at Arizona State University.
 
 Basic components of this project:
-* Chloropleth map of Africa drawn.
-* Line chart displayed on click event of mouse for every region in the map.
-* Using mouse events tooltip shown over each region of the map as well as over the line chart.
-* Data and color scheme can be updated via html elements.(does not show on github page ([link](https://stuteeroutray.github.io/linking-map-to-line-chart-d3-js.github.io/)), works on local server)
+* Chloropleth map of Africa.
+* Line chart drawn on clicking any region on the map.
+* Tooltips over each region of the map as well as over the line chart.
+* Data and color scheme updated via html elements. (does not show on github page ([link](https://stuteeroutray.github.io/linking-map-to-line-chart-d3-js.github.io/)), works on local server)
 * Stylized axes on line chart.
 
-### Data Description
+#### Data Description
 
 The data comes from the World Bank ([link](https://databank.worldbank.org/source/africa-development-indicators)). It shows, from 1960-2011, the GDP per capita of countries in Africa (based on current USD). 
 
