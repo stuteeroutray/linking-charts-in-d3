@@ -1,4 +1,4 @@
-### Linking D3 Charts and Adding Interactivity ([link](https://stuteeroutray.github.io/linking-map-to-line-chart-d3-js.github.io/))
+### Linking D3 Charts and Adding Interactivity ([link](https://stuteeroutray.github.io/linking-charts-in-d3/))
 
 This assignment was done as part of CSE 578 - Data Visualization coursework at Arizona State University.
 
@@ -6,7 +6,7 @@ Basic components of this project:
 * Chloropleth map of Africa.
 * Line chart drawn on clicking any region on the map.
 * Tooltips over each region of the map as well as over the line chart.
-* Data and color scheme updated via html elements. (does not show on github page ([link](https://stuteeroutray.github.io/linking-map-to-line-chart-d3-js.github.io/)), works on local server)
+* Data and color scheme updated via html elements. (does not show on github page ([link](https://stuteeroutray.github.io/linking-charts-in-d3/)), works on local server)
 * Stylized axes on line chart.
 
 #### Data Description
